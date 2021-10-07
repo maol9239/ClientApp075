@@ -1,0 +1,6 @@
+C:\Users\maxjo\source\repos\ClientApp075\BusinessModel\bin\Debug\BusinessModel.dll
+C:\Users\maxjo\source\repos\ClientApp075\BusinessModel\bin\Debug\BusinessModel.pdb
+C:\Users\maxjo\source\repos\ClientApp075\BusinessModel\obj\Debug\BusinessModel.csproj.AssemblyReference.cache
+C:\Users\maxjo\source\repos\ClientApp075\BusinessModel\obj\Debug\BusinessModel.csproj.CoreCompileInputs.cache
+C:\Users\maxjo\source\repos\ClientApp075\BusinessModel\obj\Debug\BusinessModel.dll
+C:\Users\maxjo\source\repos\ClientApp075\BusinessModel\obj\Debug\BusinessModel.pdb

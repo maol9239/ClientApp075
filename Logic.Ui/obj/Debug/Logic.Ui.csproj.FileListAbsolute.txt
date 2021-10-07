@@ -1,0 +1,5 @@
+C:\Users\maxjo\source\repos\ClientApp075\Logic.Ui\bin\Debug\Logic.Ui.dll
+C:\Users\maxjo\source\repos\ClientApp075\Logic.Ui\bin\Debug\Logic.Ui.pdb
+C:\Users\maxjo\source\repos\ClientApp075\Logic.Ui\obj\Debug\Logic.Ui.csproj.CoreCompileInputs.cache
+C:\Users\maxjo\source\repos\ClientApp075\Logic.Ui\obj\Debug\Logic.Ui.dll
+C:\Users\maxjo\source\repos\ClientApp075\Logic.Ui\obj\Debug\Logic.Ui.pdb

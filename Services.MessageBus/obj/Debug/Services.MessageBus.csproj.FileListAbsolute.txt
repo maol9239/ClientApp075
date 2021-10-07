@@ -1,0 +1,6 @@
+C:\Users\maxjo\source\repos\ClientApp075\Services.MessageBus\bin\Debug\Services.MessageBus.dll
+C:\Users\maxjo\source\repos\ClientApp075\Services.MessageBus\bin\Debug\Services.MessageBus.pdb
+C:\Users\maxjo\source\repos\ClientApp075\Services.MessageBus\obj\Debug\Services.MessageBus.csproj.AssemblyReference.cache
+C:\Users\maxjo\source\repos\ClientApp075\Services.MessageBus\obj\Debug\Services.MessageBus.csproj.CoreCompileInputs.cache
+C:\Users\maxjo\source\repos\ClientApp075\Services.MessageBus\obj\Debug\Services.MessageBus.dll
+C:\Users\maxjo\source\repos\ClientApp075\Services.MessageBus\obj\Debug\Services.MessageBus.pdb
