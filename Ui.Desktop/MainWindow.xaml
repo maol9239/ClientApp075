@@ -3,20 +3,26 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:De.HsFlensburg.ClientApp075.Ui.Desktop"
-        xmlns:viewModel="clr-namespace:De.HsFlensburg.ClientApp075.Logic.Ui.Wrapper;assembly=Logic.Ui"  
+        xmlns:local="clr-namespace:De.HsFlensburg.ClientApp075.Ui.Desktop" 
+        xmlns:namespaceVonClient="clr-namespace:De.HsFlensburg.ClientApp075.Business.Model.BusinessObjects;assembly=Business.Model"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
+
     <Window.Resources>
-        <viewModel:ClientCollectionViewModel x:Key="myList"></viewModel:ClientCollectionViewModel>
-        </Window.Resources>
-    <Grid>
-        <UniformGrid Grid.Column="0">
-            <Label VerticalAlignment="Center" HorizontalAlignment="Right">Identifier</Label>
-            <TextBox VerticalAlignment="Center" Text="{Binding ElementName=myDataGrid, Path=SelectedItem.Id}"></TextBox>
-            <Label VerticalAlignment="Center" HorizontalAlignment="Right">Name</Label>
-            <TextBox VerticalAlignment="Center" Text="{Binding ElementName=myDataGrid, Path=SelectedItem.Name}"></TextBox>
-        </UniformGrid>
-        <DataGrid Grid.Column="1" Name="myDataGrid" ItemSource="{Binding Source ={StaticResource myList}}"></DataGrid>
-    </Grid>
+        <namespaceVonClient:Client x:Key="myClient" Name="Hansi Sittich" Id="123" ></namespaceVonClient:Client>
+    </Window.Resources>
+    
+    <UniformGrid>
+        <Label VerticalAlignment="Center" 
+               HorizontalAlignment="Right"
+               >Id</Label>
+        <TextBox VerticalAlignment="Center" 
+                 Text="{Binding Id, Source={StaticResource myClient}}"/>
+
+        <Label VerticalAlignment="Center" 
+               HorizontalAlignment="Right"
+               >Name</Label>
+        <TextBox VerticalAlignment="Center" 
+                 Text="{Binding Name, Source={StaticResource myClient}}"/>
+    </UniformGrid>
 </Window>

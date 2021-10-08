@@ -4,3 +4,9 @@ C:\Users\maxjo\source\repos\ClientApp075\Business.Model\obj\Debug\Business.Model
 C:\Users\maxjo\source\repos\ClientApp075\Business.Model\obj\Debug\Business.Model.csproj.CoreCompileInputs.cache
 C:\Users\maxjo\source\repos\ClientApp075\Business.Model\obj\Debug\Business.Model.dll
 C:\Users\maxjo\source\repos\ClientApp075\Business.Model\obj\Debug\Business.Model.pdb
+C:\Users\maxjo\OneDrive - Hochschule Flensburg\Hochschule\Module\Anwendungssprogrammierung\Aufgaben\repos\ClientApp075\Business.Model\bin\Debug\Business.Model.dll
+C:\Users\maxjo\OneDrive - Hochschule Flensburg\Hochschule\Module\Anwendungssprogrammierung\Aufgaben\repos\ClientApp075\Business.Model\bin\Debug\Business.Model.pdb
+C:\Users\maxjo\OneDrive - Hochschule Flensburg\Hochschule\Module\Anwendungssprogrammierung\Aufgaben\repos\ClientApp075\Business.Model\obj\Debug\Business.Model.csproj.AssemblyReference.cache
+C:\Users\maxjo\OneDrive - Hochschule Flensburg\Hochschule\Module\Anwendungssprogrammierung\Aufgaben\repos\ClientApp075\Business.Model\obj\Debug\Business.Model.csproj.CoreCompileInputs.cache
+C:\Users\maxjo\OneDrive - Hochschule Flensburg\Hochschule\Module\Anwendungssprogrammierung\Aufgaben\repos\ClientApp075\Business.Model\obj\Debug\Business.Model.dll
+C:\Users\maxjo\OneDrive - Hochschule Flensburg\Hochschule\Module\Anwendungssprogrammierung\Aufgaben\repos\ClientApp075\Business.Model\obj\Debug\Business.Model.pdb
