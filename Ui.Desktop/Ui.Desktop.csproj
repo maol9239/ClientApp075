@@ -99,8 +99,12 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Business.Model\Business.Model.csproj">
-      <Project>{6beb22e9-2547-4e9c-a5fe-ac7fb51c1196}</Project>
+      <Project>{6BEB22E9-2547-4E9C-A5FE-AC7FB51C1196}</Project>
       <Name>Business.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Logic.Ui\Logic.Ui.csproj">
+      <Project>{7125364a-3177-4da0-a40c-447f7c8f78ff}</Project>
+      <Name>Logic.Ui</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

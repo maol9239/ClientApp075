@@ -31,3 +31,5 @@ C:\Users\maxjo\OneDrive - Hochschule Flensburg\Hochschule\Module\Anwendungssprog
 C:\Users\maxjo\OneDrive - Hochschule Flensburg\Hochschule\Module\Anwendungssprogrammierung\Aufgaben\repos\ClientApp075\Ui.Desktop\obj\Debug\Ui.Desktop.csproj.GenerateResource.cache
 C:\Users\maxjo\OneDrive - Hochschule Flensburg\Hochschule\Module\Anwendungssprogrammierung\Aufgaben\repos\ClientApp075\Ui.Desktop\obj\Debug\Ui.Desktop.csproj.CoreCompileInputs.cache
 C:\Users\maxjo\OneDrive - Hochschule Flensburg\Hochschule\Module\Anwendungssprogrammierung\Aufgaben\repos\ClientApp075\Ui.Desktop\obj\Debug\Ui.Desktop.csproj.CopyComplete
+C:\Users\maxjo\OneDrive - Hochschule Flensburg\Hochschule\Module\Anwendungssprogrammierung\Aufgaben\repos\ClientApp075\Ui.Desktop\bin\Debug\Logic.Ui.dll
+C:\Users\maxjo\OneDrive - Hochschule Flensburg\Hochschule\Module\Anwendungssprogrammierung\Aufgaben\repos\ClientApp075\Ui.Desktop\bin\Debug\Logic.Ui.pdb

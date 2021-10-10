@@ -1,16 +1,28 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace De.HsFlensburg.ClientApp075.Business.Model.BusinessObjects
 {
-    public class Client
+    public class Client : INotifyPropertyChanged
     {
-        private String name;
-        public int Id { get; set; }
-
+        public int id;
+        public int Id
+        {
+            get
+            {
+                return id;
+            }
+            set
+            {
+                id = value;
+                OnPropertyChanged("Id");
+            }
+        }
+        private string name;
         public String Name
         {
             get
@@ -19,15 +31,16 @@ namespace De.HsFlensburg.ClientApp075.Business.Model.BusinessObjects
             }
             set
             {
-                if (value != "")
-                {
-                    name = value;
-                }
-                else
-                {
-                    name = "Feld darf nicht leer sein.";
-                }
+                name = value;
+                OnPropertyChanged("Name");
             }
         }
+        protected virtual void OnPropertyChanged(string propertyName)
+        {
+            PropertyChangedEventHandler handler = PropertyChanged;
+            if (handler != null) handler(this, new PropertyChangedEventArgs(propertyName));
+        }
+        public event PropertyChangedEventHandler PropertyChanged;
+
     }
 }
