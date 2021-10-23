@@ -16,7 +16,11 @@ namespace De.HsFlensburg.ClientApp075.Logic.Ui.Wrapper
         private Client myClient = new Client();
         public ClientViewModel(Client client)
         {
-            myClient = client;
+            this.myClient = client;
+        }
+        public ClientViewModel()
+        {
+
         }
             
         public int Id
@@ -30,7 +34,7 @@ namespace De.HsFlensburg.ClientApp075.Logic.Ui.Wrapper
                 Model.Id = value;
             }
         }
-        public String Name
+        public string Name
         {
             get
             {

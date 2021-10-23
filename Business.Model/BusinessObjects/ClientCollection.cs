@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace De.HsFlensburg.ClientApp075.Business.Model.BusinessObjects
 {
+    [Serializable]
     public class ClientCollection : ObservableCollection<Client>
     {
 
